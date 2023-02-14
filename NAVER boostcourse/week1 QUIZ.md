@@ -1,4 +1,4 @@
-#week1 QUIZ
+
 # 1주차 QUIZ
 
 ###### 1. 다음중 파이썬의 특징이 아닌 것은? 
@@ -33,3 +33,4 @@ b. <<class 'float'>>
 c. <<class 'string'>>
 
 > Answer : a. <<class 'int'>>
+
